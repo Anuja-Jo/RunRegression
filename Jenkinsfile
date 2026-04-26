@@ -9,7 +9,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/your-username/your-project.git'
+                git 'https://github.com/Anuja-Jo/RunRegression.git'
             }
         }
 
